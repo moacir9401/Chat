@@ -1,13 +1,7 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import Chat from './Chat';
-import './index.css'
+// main.jsx
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-    <React.StrictMode>
-        <h1 className="bg-sky-500">Chat em Tempo Real</h1>
+import React from 'react';
+import { createRoot } from 'react-dom/client'; // Importe createRoot de "react-dom/client"
+import App from './App';
 
-        <Chat />
-  </React.StrictMode>,
-)
+createRoot(document.getElementById('root')).render(<App />);

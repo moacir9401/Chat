@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\moaci\\source\\repos\\API_Chat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D40131EF-C684-4B29-8EE6-4B81E7C797A7}|API_Chat\\API_Chat.csproj|c:\\users\\moaci\\source\\repos\\api_chat\\api_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D40131EF-C684-4B29-8EE6-4B81E7C797A7}|API_Chat\\API_Chat.csproj|solutionrelative:api_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\chat\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\chat\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\chat\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\chat\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\home\\index.jsx||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\home\\index.jsx||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D40131EF-C684-4B29-8EE6-4B81E7C797A7}|API_Chat\\API_Chat.csproj|c:\\users\\moaci\\source\\repos\\api_chat\\api_chat\\models\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\src\\chat\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\src\\chat\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|c:\\users\\moaci\\source\\repos\\api_chat\\chat\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7375FE36-F416-4BB0-A084-BA214AE893B9}|chat\\chat.esproj|solutionrelative:chat\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40131EF-C684-4B29-8EE6-4B81E7C797A7}|API_Chat\\API_Chat.csproj|c:\\users\\moaci\\source\\repos\\api_chat\\api_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40131EF-C684-4B29-8EE6-4B81E7C797A7}|API_Chat\\API_Chat.csproj|solutionrelative:api_chat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 38,
+          "SelectedChildIndex": 41,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,16 +186,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.css",
-              "RelativeDocumentMoniker": "chat\\src\\Chat\\index.css",
-              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.css",
-              "RelativeToolTip": "chat\\src\\Chat\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-01T04:52:39.488Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\package.json",
+              "RelativeDocumentMoniker": "chat\\package.json",
+              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\package.json",
+              "RelativeToolTip": "chat\\package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T02:50:54.177Z"
             },
             {
               "$type": "Document",
@@ -193,35 +204,69 @@
               "RelativeDocumentMoniker": "chat\\src\\main.jsx",
               "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\main.jsx",
               "RelativeToolTip": "chat\\src\\main.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-01T04:17:26.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T02:43:55.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\App.jsx",
+              "RelativeDocumentMoniker": "chat\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\App.jsx",
+              "RelativeToolTip": "chat\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-02T02:38:53.606Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "index.jsx",
-              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.jsx",
-              "RelativeDocumentMoniker": "chat\\src\\Chat\\index.jsx",
-              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.jsx",
-              "RelativeToolTip": "chat\\src\\Chat\\index.jsx",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAAAFMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Home\\index.jsx",
+              "RelativeDocumentMoniker": "chat\\src\\Home\\index.jsx",
+              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Home\\index.jsx",
+              "RelativeToolTip": "chat\\src\\Home\\index.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-05-01T04:16:41.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T02:35:51.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\API_Chat\\Program.cs",
               "RelativeDocumentMoniker": "API_Chat\\Program.cs",
               "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\API_Chat\\Program.cs",
               "RelativeToolTip": "API_Chat\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T04:04:00.302Z",
+              "WhenOpened": "2024-05-02T02:10:21.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.css",
+              "RelativeDocumentMoniker": "chat\\src\\Chat\\index.css",
+              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.css",
+              "RelativeToolTip": "chat\\src\\Chat\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-01T04:52:39.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.jsx",
+              "DocumentMoniker": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.jsx",
+              "RelativeDocumentMoniker": "chat\\src\\Chat\\index.jsx",
+              "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\chat\\src\\Chat\\index.jsx",
+              "RelativeToolTip": "chat\\src\\Chat\\index.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-01T04:16:41.855Z",
               "EditorCaption": ""
             },
             {
@@ -232,10 +277,9 @@
               "RelativeDocumentMoniker": "API_Chat\\Models\\ChatHub.cs",
               "ToolTip": "C:\\Users\\moaci\\source\\repos\\API_Chat\\API_Chat\\Models\\ChatHub.cs",
               "RelativeToolTip": "API_Chat\\Models\\ChatHub.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T04:02:53.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T04:02:53.936Z"
             }
           ]
         }
