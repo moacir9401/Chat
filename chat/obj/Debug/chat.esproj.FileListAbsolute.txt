@@ -1,0 +1,1 @@
+C:\Users\moaci\source\repos\API_Chat\chat\obj\Debug\chat.esproj.CoreCompileInputs.cache
